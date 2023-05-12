@@ -1,0 +1,15 @@
+C:\git\TLA01-Projects\phase2\bin\Debug\net6.0\phase2.exe
+C:\git\TLA01-Projects\phase2\bin\Debug\net6.0\phase2.deps.json
+C:\git\TLA01-Projects\phase2\bin\Debug\net6.0\phase2.runtimeconfig.json
+C:\git\TLA01-Projects\phase2\bin\Debug\net6.0\phase2.dll
+C:\git\TLA01-Projects\phase2\bin\Debug\net6.0\phase2.pdb
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.csproj.AssemblyReference.cache
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.AssemblyInfoInputs.cache
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.AssemblyInfo.cs
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.csproj.CoreCompileInputs.cache
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.dll
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\refint\phase2.dll
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.pdb
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\phase2.genruntimeconfig.cache
+C:\git\TLA01-Projects\phase2\obj\Debug\net6.0\ref\phase2.dll
