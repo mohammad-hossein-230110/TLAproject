@@ -1,0 +1,15 @@
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\bin\Debug\net6.0\phase4p.exe
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\bin\Debug\net6.0\phase4p.deps.json
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\bin\Debug\net6.0\phase4p.runtimeconfig.json
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\bin\Debug\net6.0\phase4p.dll
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\bin\Debug\net6.0\phase4p.pdb
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.csproj.AssemblyReference.cache
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.AssemblyInfoInputs.cache
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.AssemblyInfo.cs
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.dll
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\refint\phase4p.dll
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.pdb
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\phase4p.genruntimeconfig.cache
+C:\Users\Mohamad hossein\TLA01-Projects\phase4p\obj\Debug\net6.0\ref\phase4p.dll
